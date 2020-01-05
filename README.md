@@ -1,1 +1,1 @@
-# TTM4100-Kommunikasjon-Tjenester-og-nett
+# TTM4100 Kommunikasjon - Tjenester og nett
